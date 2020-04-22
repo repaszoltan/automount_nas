@@ -1,5 +1,5 @@
-# automount_nas
-Help to mount NAS drive at reboot
+# A simple guide
+to help automount a NAS drive at startup
 
 How to use:
 
