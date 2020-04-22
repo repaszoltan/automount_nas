@@ -1,0 +1,3 @@
+#!/bin/bash
+#modify the paht oft the nas, dest folder and your username
+sudo mount //192.168.XXX.XXX/path/sharedfolder /home/youruser/nas -o credentials=/home/youruser/.smbcredentials,uid=1000,gid=1000,forceuid,forcegid,vers=1.0
